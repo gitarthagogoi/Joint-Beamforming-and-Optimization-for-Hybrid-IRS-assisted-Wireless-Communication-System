@@ -1,0 +1,2 @@
+# Joint-Beamforming-and-Optimization-for-Hybrid-IRS-assisted-Wireless-Communication-System
+MATLAB simulation framework for hybrid Intelligent Reflecting Surfaces (Active + Passive IRS). Includes channel modeling, hybrid beamforming, total power consumption modeling (BS + IRS hardware), spectral-efficiency and energy-efficiency evaluation, and optimization of BS precoder and IRS phase/amplification matrices. (Under Construction)
