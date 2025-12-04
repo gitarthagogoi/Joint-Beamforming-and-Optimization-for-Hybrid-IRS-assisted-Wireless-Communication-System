@@ -37,7 +37,7 @@ Upcoming major development:
 - Joint optimization of **W** (BS precoder) and **Θ** (Hybrid IRS matrix)  
 - Verification experiments to validate the hybrid scheme  
 
-This will complete the full hybrid IRS evaluation pipeline.
+This will complete the full hybrid IRS evaluation phase.
 
 ---
 
